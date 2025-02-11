@@ -1,2 +1,2 @@
 # game-playing-agents
-Off-the-shelf implementations of typical strategic game-playing agents (min-max, alpha-beta pruning, etc.) and implementations of typical board games.
+Off-the-shelf, generic implementations of typical strategic game-playing agents (min-max, alpha-beta pruning, etc.), implementations of typical board games, and a RESTful API for playing those games against specific versions (different algorithms, parameters, etc.) of those agents. Probably should put the games and the API in their own repos. Something to think about in the future, I guess.
